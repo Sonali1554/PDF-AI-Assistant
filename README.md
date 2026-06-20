@@ -35,7 +35,10 @@ PDF → Chunking → Embeddings → FAISS Vector Store → Retriever → Hugging
 
 ## 📸 Demo
 
-![Uploading Screenshot (1200).png…]()
+<img width="1920" height="1200" alt="Screenshot (1200)" src="https://github.com/user-attachments/assets/e22c32b5-5871-4df0-95dc-7aca7359b5b8" />
+
+
+
 
 ## ⚙️ Installation
 
