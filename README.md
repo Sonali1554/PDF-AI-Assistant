@@ -28,6 +28,8 @@ A ChatPDF-style Retrieval-Augmented Generation (RAG) application built using Lan
 pip install -r requirements.txt
 streamlit run streamlit_app.py
 ```
+<img width="1920" height="1200" alt="Screenshot (1196)" src="https://github.com/user-attachments/assets/4e8022c4-e71c-42d5-b301-d894d6ad46ff" />
+
 
 ## Project Structure
 
