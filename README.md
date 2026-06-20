@@ -1,45 +1,53 @@
 # 📄 PDF AI Assistant
 
-A ChatPDF-style Retrieval-Augmented Generation (RAG) application built using LangChain, Hugging Face, FAISS, and Streamlit.
+A ChatPDF-style Retrieval-Augmented Generation (RAG) application built using LangChain, Hugging Face, FAISS, and Streamlit. Upload any PDF and ask questions in natural language to get context-aware answers.
 
-## Features
+## 🚀 Live Demo
 
-* Upload any PDF
-* Ask questions about the PDF
-* Semantic search using FAISS
-* Hugging Face Embeddings
-* Conversational interface
-* Source chunk display
-* Streamlit UI
+🔗 https://pdf-ai-assistant-ivpzehndzs5no3rbamdvvy.streamlit.app
 
-## Tech Stack
+## ✨ Features
+
+* 📄 Upload any PDF document
+* 💬 Chat with PDFs using natural language
+* 🔍 Semantic search with FAISS vector database
+* 🤗 Hugging Face embeddings and LLM integration
+* 📚 Source chunk citations for transparency
+* 🧠 Retrieval-Augmented Generation (RAG)
+* 🌐 Deployed on Streamlit Cloud
+
+## 🛠️ Tech Stack
 
 * Python
+* Streamlit
 * LangChain
 * Hugging Face
 * FAISS
-* Streamlit
 * Sentence Transformers
 * PyPDF
 
-## Run Locally
+## 📂 Project Architecture
+
+PDF → Chunking → Embeddings → FAISS Vector Store → Retriever → Hugging Face LLM → Answer
+
+## 📸 Demo
+
+(Add your application screenshot here)
+
+## ⚙️ Installation
 
 ```bash
+git clone https://github.com/Sonali1554/PDF-AI-Assistant.git
+cd PDF-AI-Assistant
+
 pip install -r requirements.txt
+
 streamlit run streamlit_app.py
 ```
-<img width="1920" height="1200" alt="Screenshot (1196)" src="https://github.com/user-attachments/assets/4e8022c4-e71c-42d5-b301-d894d6ad46ff" />
 
+## 👩‍💻 Author
 
-## Project Structure
+Sonali Kumari
 
-```text
-PDF-AI-Assistant/
-│
-├── streamlit_app.py
-├── pdf_rag.py
-├── llm.py
-├── .env
-├── requirements.txt
-└── README.md
-```
+* GitHub: https://github.com/Sonali1554
+* LinkedIn: https://www.linkedin.com/in/sonali-kumari1207/
