@@ -6,7 +6,7 @@ A ChatPDF-style Retrieval-Augmented Generation (RAG) application built using Lan
 
 🔗 https://pdf-ai-assistant-ivpzehndzs5no3rbamdvvy.streamlit.app
 
-![Uploading Screenshot (1200).png…]()
+
 
 
 ## ✨ Features
@@ -35,7 +35,7 @@ PDF → Chunking → Embeddings → FAISS Vector Store → Retriever → Hugging
 
 ## 📸 Demo
 
-(Add your application screenshot here)
+![Uploading Screenshot (1200).png…]()
 
 ## ⚙️ Installation
 
